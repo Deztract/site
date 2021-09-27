@@ -1,3 +1,44 @@
+body {
+    margin: 0;
+    background-image: url(images/bg.png);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+	font-size: 20px;
+    font-weight: 300;
+    margin-top: 30px;
+    color: #fff;
+    line-height: 1;
+    text-align: center;
+}
+
+table {
+	font-size: 18px;
+    display: table;
+    border-collapse: separate;
+}
+
 h1{
-	color: red;
+    text-align: center;
+    color: #e8993f;
+}
+
+a {
+    color: #ffd100;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+td {
+  padding: 15px;
+  padding-left: 15px;
+}
+
+.maintext{
+    margin: 20px 270px;
+    padding: 20px;
+    color:  #fff;
+    font-size: 20px;
 }
